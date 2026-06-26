@@ -273,7 +273,7 @@ http://localhost:8080/swagger-ui/index.html
 ## Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ECommerce-Backend.git
+git clone https://github.com/shaikmali010/ECommerce-Backend.git
 ```
 
 ## Open Project
@@ -357,6 +357,6 @@ Backend Developer | Java | Spring Boot | REST APIs | MySQL
 
 ---
 
-# ⭐ Acknowledgements
+# Acknowledgements
 
 This project was developed to demonstrate enterprise backend development concepts using Spring Boot, following clean architecture and industry-standard coding practices.

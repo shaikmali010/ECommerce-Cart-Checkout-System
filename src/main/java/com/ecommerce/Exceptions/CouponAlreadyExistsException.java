@@ -1,0 +1,9 @@
+package com.ecommerce.Exceptions;
+
+public class CouponAlreadyExistsException extends RuntimeException {
+
+    public CouponAlreadyExistsException(String message) {
+        super(message);
+    }
+
+}

@@ -198,7 +198,7 @@ The application uses the following database tables:
 | ------ | --------------------------------- |
 | POST   | /api/cart                         |
 | GET    | /api/cart/{userId}                |
-| PUT    | /api/cart/{cartItemId}/{quantity} |
+| PUT    | /api/cart/{cartItemId} |
 | DELETE | /api/cart/{cartItemId}            |
 
 ---
